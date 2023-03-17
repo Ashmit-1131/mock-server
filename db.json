@@ -24,6 +24,16 @@
       "cost":"4000",
       "booked":false
     }
+    ],
+    "users":[
+      {
+        "id":1,
+        "name":"Ashmit",
+        "email":"beingashmit@gmail.com",
+        "password":"12345"
+
+        
+      }
     ]
   }
   
